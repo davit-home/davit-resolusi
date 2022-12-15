@@ -1,8 +1,7 @@
 DAVIT RESOLUSI
 "SELALU NIAT KARENA ALLOH, INGIN MASUK SURGA SELAMAT DARI NERAKA, SUKSES DUNIA JADI WEB DEVELOPER, SUKSES AKHIROT MASUK SURGA FIRDAUS & JAUH DARI NERAKA"
-"354--QHJ, 5 BAB, 4 TALI KEIMANAN"
-"6 TLJ, 3S"
+"354--QHJ, 5 BAB, 4 TALI KEIMANAN" "6 TLJ, 3S"
 
 - Konsisten untuk belajar setiap hari (Fullstack WebDev, ExcelApp, DQLab, HabisKerja)
-- Konsisten untuk belajar pengembangan diri (Nderes Tafsir Q/H, Motivasi, Komunikasi, Public Speaking, Silaturrahim)
+- Konsisten untuk belajar pengembangan diri (Nderes Tafsir Q/H, Nasehat, Motivasi, Komunikasi, Public Speaking, Silaturrahim)
 - Membuat aplikasi database, aplikasi rekap santri dan guru
