@@ -1,2 +1,2 @@
 # davit-resolusi
-resolusi davit untuk satu tahun kedepan
+resolusi davit untuk kedepannya
